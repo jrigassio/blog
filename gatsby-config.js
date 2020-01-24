@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `James Rigassio`,
-    author: `James`,
-    description: `A blog for whatever I feel like.`,
+    title: `Code and Stuff`,
+    author: `James Rigassio`,
+    description: `We'll see what this is about.`,
     siteUrl: `https://rigass.io/`,
     social: {
       github: `jrigassio`,

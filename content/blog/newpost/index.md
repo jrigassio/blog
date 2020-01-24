@@ -1,9 +1,15 @@
 ---
-title: New Stuff
-date: "2020-01-03T17:12:03.284Z"
+title: New Test
+date: "2020-01-03"
 description: "The first new post on this site"
 ---
 
 # HELLO
 
 ## TESTING 
+
+~~strike one~~
+
+__slide__
+
+*_the quick brown fox_*
